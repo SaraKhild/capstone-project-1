@@ -26,3 +26,6 @@ jobs:
              tags: |
                 sarakalhussain/action-test:latest
                 sarakalhussain/action-test:${{github.sha}}
+
+
+                
