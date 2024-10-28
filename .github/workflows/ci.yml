@@ -25,7 +25,4 @@ jobs:
              push: true
              tags: |
                 sarakalhussain/action-test:latest
-                sarakalhussain/action-test:${{github.sha}}
-
-
-                
+                sarakalhussain/action-test:${{github.sha}}            
